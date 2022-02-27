@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class ButtonBindingPractice : MonoBehaviour
 {
     public void PlayGame(){
-        SceneManager.LoadScene("Mini-Project-2");
+        SceneManager.LoadScene("Mini-Project 1");
     }
 
     public void QuitGame(){
